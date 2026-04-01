@@ -1,3 +1,4 @@
+
 public class Bogie {
     String name;
     int capacity;
